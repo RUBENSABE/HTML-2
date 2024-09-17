@@ -32,4 +32,8 @@
   crear archivo navegacion.html (ejemplo de menu perfecto)
   crear archivo tablas.html (ejemplo de tablas)
 -->
+ ## IMAGENES
  
+1. Tipos de imagenes (Render - Vectorial)
+2. Render (JPG , PNG , GIF)
+3. Vectorial (SVG)
